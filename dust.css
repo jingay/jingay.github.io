@@ -12,37 +12,3 @@
 		background-position:center center;
 	   }
 	
-	 .container{
-	   display:flex;
-	   text-shadow:5px 5px 16px #202020;
-	   width:1500px;
-	   height:300px;
-	   margin-top:20%;
-	   justify-content:space-around;
-	   background-color:rgba(255,255,255,0.7);
-	   margin-left:10%;
-	   font-size:200px;
-	   color:gold;
-	   align-items:center;
-	   box-shadow:5px 5px 16px #3a3a3a;
-	   
-	   
-	 }
-	 
-	 button{
-	   margin-top:30px;
-	   font-size:30px;
-	   padding:15px;
-	   border-radius:100%;
-	   outline:none;
-	 }
-	 
-	 
-	 
-	 
-	 
-	 .num{
-	  width:250px;
-	  height:250px;
-	  background-color:rgba(100,100,100,0.3);
-	 }
